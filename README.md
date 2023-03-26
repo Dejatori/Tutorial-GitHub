@@ -1,7 +1,7 @@
 # Bienvenidos a mi proyecto
 Este es un proyecto de ejemplo que se utiliza para demostrar cómo escribir un archivo
 # Te enseño a agregar un hipervinculo
-[Visita mi blog (https://www.aunnotengoblog.com)]
+[Visita mi blog](https://www.aunnotengoblog.com)
 # Instalación
 Para instalar el proyecto, siga los siguientes pasos:
 
